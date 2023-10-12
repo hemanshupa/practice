@@ -12,4 +12,5 @@ int main() {
       str = ss.str();
    }
    cout<<str;
+   f.close();
 }
